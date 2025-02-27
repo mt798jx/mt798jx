@@ -1,29 +1,46 @@
-🚀 Miroslav Tvrdoň
-👨‍💻 Študent informatiky @ TUKE FEI
-📚 Zameranie: Strojové učenie, umelá inteligencia, backend development, embedded systémy
-🎯 Pracujem na: Bakalárskej práci – Automatizované hodnotenie odpovedí študentov pomocou LLM
+- 👋 Hi, I’m **Miroslav Tvrdoň** (@mt798jx)
+- 👀 I’m interested in **AI, machine learning, backend development, embedded systems, cryptography, and game development**
+- 🌱 I’m currently learning **Unity 3D, AI model fine-tuning, and advanced NLP techniques**
+- 💞️ I’m looking to collaborate on **AI-based grading systems, NLP projects, and embedded systems development**
+- 📫 How to reach me: **[LinkedIn](#) | Email: miroslav@mtvrdon.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I work on automating student grading with AI while building a fighter jet game in Unity! 🚀**
 
-💡 O mne
-🎓 Študujem informatiku na TUKE, FEI
-⚡ Baví ma Java, Python, AI & LLMs, React, Unity 3D, Raspberry Pi
-🔬 Zaujímam sa o kryptografiu, NLP, AI modely a hodnotenie testov cez LLM
-🛠️ Pracujem na backendových systémoch v Jave a Pythone
-🕹️ Experimentujem s Unity 3D – aktuálne hra so stíhačkou
-🛠️ Tech Stack
-🔥 Backend: Java (Spring Boot), Python (Flask)
-⚡ Frontend: React, Material UI
-📊 Databázy: PostgreSQL, Firebase
-🖥️ Embedded: Arduino, Raspberry Pi, Unity C#
-🌐 AI/ML: OpenAI API, Gemini API, scikit-learn
-🔐 Bezpečnosť: Kryptografia (Playfair Cipher, BMP šifra)
+## 🔥 About Me
+🎓 I’m a **computer science student at TUKE FEI**, working on my **bachelor’s thesis**, which focuses on automating the evaluation of student answers using **LLMs (ChatGPT & Gemini)**. I also work with **embedded systems** and **game development in Unity 3D**.
 
-🚀 Aktuálne Projekty
-🔹 Automatické hodnotenie odpovedí študentov (Bakalárska práca)
-🔹 Sudoku a Nurikabe solver (AI, DFS, Backtracking)
-🔹 RFID prístupový systém s Raspberry Pi Pico
-🔹 Unity 3D hra
+I have experience in **backend development (Java, Python), AI/ML models, database management, cryptography, and IoT devices**.
 
-📫 Kontakt
-🔗 LinkedIn | ✉️ miroslav@mtvrdon.com
+---
 
-💬 "Kód je ako poézia – mal by byť elegantný a výstižný." 🚀
+## 🚀 Current Projects
+- **🧠 AI-powered student grading system** (Bachelor’s Thesis)  
+- **🎮 Unity 3D fighter jet game** (checkpoint-based flying mechanics)  
+- **🕵️ Sudoku & Nurikabe solvers** (DFS, backtracking, and forward checking)  
+- **🔐 Cryptography implementations** (Playfair cipher, BMP encryption)  
+- **📡 RFID-based access control system** (Raspberry Pi Pico)
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks:**  
+- Java (Spring Boot), Python (Flask, scikit-learn), C, C++  
+- React (Material UI), Unity (C#), Arduino  
+
+**Databases:**  
+- PostgreSQL, Firebase  
+
+**Embedded Systems & IoT:**  
+- Arduino, Raspberry Pi, Cytron Maker Pi Pico  
+
+**AI & Machine Learning:**  
+- OpenAI API, Gemini API, NLP, ML model fine-tuning  
+
+---
+
+## 📫 Contact
+📧 Email: **miroslav@mtvrdon.com**  
+💼 LinkedIn: **[https://www.linkedin.com/in/miroslav-tvrdoň-01b552241/](https://www.linkedin.com/in/miroslav-tvrdoň-01b552241/)**  
+🔗 GitHub: **[@mt798jx](https://github.com/mt798jx)**  
+
+💬 _"Code is like poetry – it should be elegant and meaningful."_ 🚀  
