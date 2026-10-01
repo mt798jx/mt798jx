@@ -1,46 +1,141 @@
-- 👋 Hi, I’m **Miroslav Tvrdoň** (@mt798jx)
-- 👀 I’m interested in **AI, machine learning, backend development, embedded systems, cryptography, and game development**
-- 🌱 I’m currently learning **Unity 3D, AI model fine-tuning, and advanced NLP techniques**
-- 💞️ I’m looking to collaborate on **AI-based grading systems, NLP projects, and embedded systems development**
-- 📫 How to reach me: **[LinkedIn](#) | Email: miroslav@mtvrdon.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I work on automating student grading with AI while building a fighter jet game in Unity! 🚀**
+# Hi, I'm Miroslav Tvrdoň
 
-## 🔥 About Me
-🎓 I’m a **computer science student at TUKE FEI**, working on my **bachelor’s thesis**, which focuses on automating the evaluation of student answers using **LLMs (ChatGPT & Gemini)**. I also work with **embedded systems** and **game development in Unity 3D**.
+Software Engineer with professional experience across software development, enterprise systems, data engineering, and technical support environments.
 
-I have experience in **backend development (Java, Python), AI/ML models, database management, cryptography, and IoT devices**.
+I work primarily with Python, TypeScript/JavaScript, React, FastAPI, SQL, and modern data platforms. I also have hands-on experience with CI/CD pipelines, Jenkins, Docker, Kubernetes, Git-based development workflows, and production deployments.
 
----
+My recent work includes enterprise chatbot development, data engineering workflows with PySpark and Databricks, and independently developed full-stack web applications.
 
-## 🚀 Current Projects
-- **🧠 AI-powered student grading system** (Bachelor’s Thesis)  
-- **🎮 Unity 3D fighter jet game** (checkpoint-based flying mechanics)  
-- **🕵️ Sudoku & Nurikabe solvers** (DFS, backtracking, and forward checking)  
-- **🔐 Cryptography implementations** (Playfair cipher, BMP encryption)  
-- **📡 RFID-based access control system** (Raspberry Pi Pico)
+## About Me
 
----
+- Software Engineer with experience in enterprise environments including Siemens Healthineers, Erste Digital, and U. S. Steel Košice
+- Backend and full-stack development with Python, FastAPI, React, and TypeScript
+- Data engineering with PySpark, SQL, Databricks, and Qlik
+- CI/CD and deployment experience with Jenkins, Docker, Kubernetes, Bitbucket, GitLab, and GitHub
+- Experience building RAG and LLM-powered applications with LangChain and LangGraph
+- Working knowledge of C#/.NET and Angular
+- Experience delivering and maintaining production-facing web applications
 
-## 🛠️ Tech Stack
-**Languages & Frameworks:**  
-- Java (Spring Boot), Python (Flask, scikit-learn), C, C++  
-- React (Material UI), Unity (C#), Arduino  
+## Selected Experience
 
-**Databases:**  
-- PostgreSQL, Firebase  
+### Enterprise Chatbot Development
+Worked on an enterprise chatbot solution using:
 
-**Embedded Systems & IoT:**  
-- Arduino, Raspberry Pi, Cytron Maker Pi Pico  
+- Python
+- FastAPI
+- React
+- LangChain
+- LangGraph
+- Redis
+- Kafka
+- Jenkins
+- Docker
+- Kubernetes
+- Bitbucket
 
-**AI & Machine Learning:**  
-- OpenAI API, Gemini API, NLP, ML model fine-tuning  
+Key areas included backend and frontend development, RAG and LLM workflows, caching and asynchronous communication, CI/CD, deployment, troubleshooting, and collaborative development in Scrum.
 
----
+### Data Engineering
+Currently working with:
 
-## 📫 Contact
-📧 Email: **miroslav@mtvrdon.com**  
-💼 LinkedIn: **[https://www.linkedin.com/in/miroslav-tvrdoň-01b552241/](https://www.linkedin.com/in/miroslav-tvrdoň-01b552241/)**  
-🔗 GitHub: **[@mt798jx](https://github.com/mt798jx)**  
+- Python
+- PySpark
+- SQL
+- Databricks
+- Qlik
 
-💬 _"Code is like poetry – it should be elegant and meaningful."_ 🚀  
+Focused on data processing, analytics workflows, reporting, troubleshooting, and maintenance of enterprise data solutions.
+
+## Independent Software Projects
+
+### Darts Tournament Management Platform
+Full-stack application for managing darts tournaments.
+
+Tech stack:
+- React
+- Python
+- Supabase
+- JWT authentication
+- OTP verification
+- Docker
+- Google Cloud
+- Vercel
+
+Responsibilities included application architecture, frontend and backend development, authentication, deployment, configuration, and ongoing maintenance.
+
+### Passenger & Airport Transfer Platform
+Production website for a passenger and airport transfer business.
+
+Main areas:
+- Technical SEO
+- On-page SEO
+- Search engine indexing
+- Local SEO
+- Performance optimization
+- Security
+- Booking functionality
+- Analytics
+- Hosting and domain configuration
+- Production maintenance
+
+### Personal Portfolio
+[mtvrdon.com](https://www.mtvrdon.com)
+
+Personal portfolio and development playground focused on modern frontend technologies, responsive design, performance, and interactive web experiences using Three.js.
+
+## Tech Stack
+
+### Languages
+- Python
+- TypeScript / JavaScript
+- SQL
+- C
+- C# / .NET — working knowledge
+
+### Frontend
+- React
+- Angular — working knowledge
+- HTML
+- CSS
+- Three.js
+
+### Backend
+- FastAPI
+- REST APIs
+- JWT authentication
+- Redis
+- Kafka
+
+### DevOps & Delivery
+- Jenkins
+- CI/CD
+- Docker
+- Kubernetes
+- Git
+- Bitbucket
+- GitLab
+- GitHub
+
+### Data & Databases
+- PostgreSQL
+- Supabase
+- PySpark
+- Databricks
+- Qlik
+
+### AI & LLM
+- LangChain
+- LangGraph
+- RAG
+- LLM integrations
+
+### Cloud & Hosting
+- Google Cloud
+- Vercel
+
+## Contact
+
+- Email: miroslav@mtvrdon.com
+- LinkedIn: https://www.linkedin.com/in/miroslav-tvrdoň-01b552241/
+- Portfolio: https://www.mtvrdon.com
+- GitHub: https://github.com/mt798jx
